@@ -11,10 +11,21 @@ As interesting and exited I am about learning the skills to craft beautiful web 
 https://jekyllrb.com/tutorials/video-walkthroughs/
 https://jekyllrb.com/resources/
 https://cloudcannon.com/community/learn/jekyll-101/
+https://github.community/t/my-favorite-jekyll-themes-how-bout-you/10644
+https://jekyllthemes.io/theme/journal-personal-jekyll-theme
+https://jekyllthemes.io/theme/doks-documentation-jekyll-theme
+https://jekyllthemes.io/theme/personal-website-jekyll-theme
+https://github.com/mmistakes/jekyll-theme-basically-basic
+
+http://lirancohen.github.io/stickUp/#installation
+https://code-maven.com/javascript-on-github-pages
+
+
+
+
 
 best GitHub pages
 https://awesomeopensource.com/projects/github-pages
-
 https://johnpolacek.github.io/scrollorama/
 https://kylestetz.github.io/CLNDR/
 https://gionkunz.github.io/chartist-js/
